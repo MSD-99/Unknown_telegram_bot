@@ -1,4 +1,4 @@
-# Template Bot to Connect tow strangers
+# Telegram Bot to Connect tow strangers
 
 ## How to Run
 
